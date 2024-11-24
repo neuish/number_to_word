@@ -3,7 +3,7 @@ This Python program converts various types of numbers into their respective word
 It supports 
     integers, 
     floating-point numbers, 
-    rational numbers (fractions),  
+    rational numbers (fractions),
     imaginary numbers. 
     
 The program allows users to input a number, view its conversion in words, and optionally input another number for conversion.
